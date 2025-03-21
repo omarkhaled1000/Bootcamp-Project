@@ -3,7 +3,7 @@ This is a test for making my first repository in the bootcamp
 ## Installation
 1. Clone the repo:
    ```sh
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/omarkhaled1000/Bootcamp-Project.git
 cd repo-name
 npm install  # or pip install -r requirements.txt
 
@@ -28,4 +28,4 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-name`)  
 5. Open a Pull Request  
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is not licensed - see the [LICENSE](LICENSE) file for details.
