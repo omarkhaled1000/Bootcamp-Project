@@ -3,7 +3,7 @@ This is a test for making my first repository in the bootcamp
 ## Installation
 1. Clone the repo:
    ```sh
-   git clone https://github.com/omarkhaled1000/Bootcamp-Project.git
+   https://github.com/omarkhaled1000/Bootcamp-Project.git
 cd repo-name
 npm install  # or pip install -r requirements.txt
 
